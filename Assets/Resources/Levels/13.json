@@ -1,0 +1,74 @@
+{
+    "levelID": 13,
+    "tiles": [
+        {
+            "gridPositionX": 0,
+            "gridPositionY": 0,
+            "type": 0,
+            "health": 0
+        },
+        {
+            "gridPositionX": 1,
+            "gridPositionY": 3,
+            "type": 1,
+            "health": 0
+        },
+        {
+            "gridPositionX": 1,
+            "gridPositionY": 0,
+            "type": 2,
+            "health": 1
+        },
+        {
+            "gridPositionX": 2,
+            "gridPositionY": 0,
+            "type": 2,
+            "health": 1
+        },
+        {
+            "gridPositionX": 2,
+            "gridPositionY": 1,
+            "type": 2,
+            "health": 2
+        },
+        {
+            "gridPositionX": 1,
+            "gridPositionY": 1,
+            "type": 2,
+            "health": 1
+        },
+        {
+            "gridPositionX": 2,
+            "gridPositionY": 2,
+            "type": 2,
+            "health": 1
+        },
+        {
+            "gridPositionX": 1,
+            "gridPositionY": 2,
+            "type": 2,
+            "health": 1
+        },
+        {
+            "gridPositionX": 0,
+            "gridPositionY": 2,
+            "type": 2,
+            "health": 2
+        },
+        {
+            "gridPositionX": 0,
+            "gridPositionY": 1,
+            "type": 2,
+            "health": 1
+        },
+        {
+            "gridPositionX": 0,
+            "gridPositionY": 3,
+            "type": 2,
+            "health": 1
+         }
+            ],
+            "obstacles": [],
+            "snakes": [ 2.0 ],
+            "moves": [ 1, 1, 2, 3, 1, 2, 3, 3, 0, 2, 2, 1 ]
+        }
